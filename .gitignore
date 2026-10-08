@@ -1,0 +1,22 @@
+# Streamlit secrets (DO NOT COMMIT REAL SECRETS)
+.streamlit/secrets.toml
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache and byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
